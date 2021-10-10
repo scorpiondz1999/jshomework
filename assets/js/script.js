@@ -30,8 +30,9 @@ function generatePassword() {
     if (length > 128) {
       window.alert("password must have less than 129 characters");
     } else {
+      //asking if password contain lowercase characters then confirm  .
       var lowercase = false;
-        //asking if password contain lowercase characters then confirm  .
+        
         lowercase = window.confirm("Click OK to confirm including Lowercase ?");
 
       if (lowercase == true) {
