@@ -27,4 +27,5 @@ Then if your password is more than 128 characters you will not be able to start 
 You will be asked if your password contains at least one character such lowercase,uppercase ,number and special characters then you should  confirm if there is any  ,you will se this screen for each character asked for .
 ![2021-10-09 (5)](https://user-images.githubusercontent.com/84550325/136679393-1a3c355a-1ab0-4fb3-8163-c5e48619312f.png)
 In case you did not select any character , this message display in your sreen :
+![2021-10-09 (13)](https://user-images.githubusercontent.com/84550325/136679691-0d7ae24a-c154-4539-9031-34cdf0ef98de.png)
 
