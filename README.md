@@ -22,4 +22,4 @@ This is the first thing you see in our app.
 There is some requirement as i mentionned below to get started with your password ,the first one is the password length .
 if your password has less than 8 characters you will see this images display in your screen .
 
-https://user-images.githubusercontent.com/84550325/136678839-27db553e-a063-4baf-8809-5e8d011fd2d4.png
+
