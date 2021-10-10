@@ -36,7 +36,7 @@ Great !!!! if you select "OK" to all password creteria congratulation now you ca
 * javascript
 
 ## Website
-https://scorpiondz1999.github.io/
+https://scorpiondz1999.github.io/jshomework/
 
 ## Contribution
 Made by Djamel Ramdani
